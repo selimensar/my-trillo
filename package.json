@@ -1,16 +1,16 @@
 {
-	"name": "project-name",
+	"name": "my-trillo",
 	"version": "0.0.1",
-	"description": "A description for your project.",
+	"description": "Trillo App",
 	"main": "./dist/your-main-js-file.js",
 	"author": {
-		"name": "YOUR NAME",
-		"url": "http://link-to-your-website.com"
+		"name": "Selim Ensar Koksal",
+		"url": "http://voxmedya.com"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "http://link-to-your-git-repo.com"
+		"url": "https://github.com/selimensar?tab=repositories"
 	},
 	"boilerplate": {
 		"version": "2.2.6",
