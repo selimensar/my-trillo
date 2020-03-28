@@ -1,4 +1,4 @@
-# My Nexter Project
+# My Trillo Project
 A boilerplate for building web projects with [Gulp](https://gulpjs.com/). Uses Gulp 4.x.
 
 **Features**
